@@ -1,0 +1,41 @@
+/* style for headings and paragraphs */
+h {
+    font-family: 'Source Serif Pro'; serif;
+    font-weight:  600;
+    font-size:  50px;
+}
+
+p {
+    font-family: 'Source Serif Pro'; serif;
+    font-weight:  regular;
+    font-size:  20px;
+}
+
+/* style for links and link interactions */
+a {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color:  rgb(147,155,203);
+    font-weight:  bold;
+}
+
+/* style for classes */
+
+.introduction {
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -100px; /* Negative half of height. */
+    margin-left: -250px; /* Negative half of width. */
+}
+
+/* style for ids */
+
+#headerimage {
+    width:  20%;
+}
+
