@@ -17,3 +17,8 @@ function switchHeaderGraphicDesign() {
 function switchHeaderGraphicStorytelling() {
     document.getElementById("headerimage").src = "Assets/storytelling-graphic.png";
 }
+
+//function to email for help, faqs
+function emailContact() {
+  window.location.href= "mailto:jenniferjia48@gmail.com"
+}

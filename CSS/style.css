@@ -1,8 +1,20 @@
 /* style for headings and paragraphs */
-h {
+h1 {
     font-family: 'Source Serif Pro'; serif;
     font-weight:  600;
     font-size:  50px;
+}
+
+h2 {
+    font-family: 'Source Serif Pro'; serif;
+    font-weight:  600;
+    font-size:  30px;
+}
+
+h3 {
+    font-family: 'Source Serif Pro'; serif;
+    font-weight:  600;
+    font-size:  20px;
 }
 
 p {
@@ -19,7 +31,7 @@ a {
 }
 
 a:hover {
-    color:  rgb(147,155,203);
+    color: rgb(147,155,203);
     font-weight:  bold;
 }
 
@@ -31,13 +43,44 @@ a:hover {
     text-underline-offset:  3px;
 }
 
+.downarrow {
+    position:  absolute;
+    left:  49%;
+    width: 200px;
+}
+
+.body {
+    padding-left: 100px;
+    padding-right:  100px;
+}
+
+.bodytext {
+    font-size:  15px;
+}
+
 /* style for ids */
 
 #headerimage {
     width:  20%;
 }
 
+#headerimageabout {
+    width:  20%;
+}
+
+#headshot {
+    max-width: 90%;
+    max-height: 90%;
+}
+
 #projectimages {
     width: 100%;
 }
 
+#projectimages:hover {
+    opacity: 40%;
+}
+
+#goback {
+    font-size: 14px;
+}
