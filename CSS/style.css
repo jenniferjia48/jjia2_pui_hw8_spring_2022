@@ -14,7 +14,14 @@ h2 {
 h3 {
     font-family: 'Source Serif Pro'; serif;
     font-weight:  600;
-    font-size:  20px;
+    font-size:  25px;
+}
+
+h4 {
+    font-family: 'Source Serif Pro'; serif;
+    font-weight:  600;
+    font-size:  18px;
+    text-align:  center;
 }
 
 p {
@@ -54,8 +61,15 @@ a:hover {
     padding-right:  100px;
 }
 
+.boldbody {
+    font-weight:  600;
+    color: rgb(198,154,169);;
+}
+
 .bodytext {
-    font-size:  15px;
+    font-size:  16px;
+    font-family: 'Source Serif Pro'; serif;
+    font-weight:  regular;
 }
 
 /* style for ids */
@@ -83,4 +97,22 @@ a:hover {
 
 #goback {
     font-size: 14px;
+}
+
+#project-one-problem-space {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+
+#prototype-images {
+    margin: auto;
+    display:  block;
+}
+
+#prototype-images-2 {
+    width:  90%;
+    margin:  auto;
+    display:  block;
 }
