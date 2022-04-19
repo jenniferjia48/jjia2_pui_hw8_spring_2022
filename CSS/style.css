@@ -83,6 +83,10 @@ a:hover {
     font-weight:  bold;
 }
 
+.heart {
+    color: rgb(198,154,169);
+}
+
 /* style for ids */
 
 #headerimage {
