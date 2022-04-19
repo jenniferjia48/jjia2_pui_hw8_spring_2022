@@ -22,3 +22,24 @@ function switchHeaderGraphicStorytelling() {
 function emailContact() {
   window.location.href= "mailto:jenniferjia48@gmail.com"
 }
+
+//function to generate a random project
+function randomProject(){
+    var randomproj=Math.round(Math.random()*3);
+    var proj1="projectone.html";
+    var proj2="projecttwo.html";
+    var proj3="projectthree.html";
+    var proj4="projectfour.html";
+    if (randomproj==0) {
+        window.location=proj1;
+    }
+    else if (randomproj==1) {
+        window.location=proj2;
+    }
+    else if (randomproj==2) {
+        window.location=proj3;
+    }
+    else {
+        window.location=proj4;
+    }
+}
