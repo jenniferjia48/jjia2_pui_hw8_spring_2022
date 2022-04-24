@@ -25,13 +25,14 @@ The purpose of my responsive site is to serve as a personal portfolio highlighti
 
 
 ## Part 5: External Tools
-* Name of tool 1: jQuery Javascript Library
+Tool 1:
+* Name of tool: jQuery Javascript Library
 * Why I chose to use it: I used jQuery in my website to add interactivity and make the website more interesting for the user.
 * How I used it: I used jQuery in the About page. When the user clicks on the "i contacted you! what's next?" button, a hidden hand-drawn graphic is then displayed on the About page. This was implemented using fadeIn in jQuery.
 * What it adds to my website: Similarly to the homepage, I wanted to add some interactivity on the About page to make the user experience more engaging and interesting. I also wanted to implement user feedback to provide additional information. Lastly, I wanted to include hand-drawn, interactive graphics to make the experience more surprising and creative.
 
-
-* Name of tool 2: Animation
+Tool 2:
+* Name of tool: Animation
 * Why I chose to use it: I used CSS animation to provide feedforward to the user.
 * How I used it: I used animation in the homepage. The header text has a subtle slide-in effect after the user enters the site. The down arrow is also continuously bouncing up and down to signify the user to scroll down.
 * What it adds to my website: The CSS animation adds more intrigue to the site by drawing the eye. The bouncing arrow adds feedforward by telling the user to scroll down and explore the projects. This helps guide the user and makes the site more intuitive.
