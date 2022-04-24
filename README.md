@@ -2,6 +2,7 @@
 
 ## Part 1: Video
 
+https://drive.google.com/file/d/1ocwj3D4anBHIdq0KezW3cVS5TiS100jw/view?usp=sharing
 
 ## Part 2: Project Links
 * Website Link: https://jennifer-jia.web.app/
