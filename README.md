@@ -2,6 +2,8 @@
 
 ## Part 1: Video
 
+https://user-images.githubusercontent.com/99750804/164956514-2bce9551-79d2-494c-973b-a886d2432c35.mp4
+
 https://drive.google.com/file/d/1ocwj3D4anBHIdq0KezW3cVS5TiS100jw/view?usp=sharing
 
 ## Part 2: Project Links
